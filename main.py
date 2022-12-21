@@ -17,6 +17,10 @@ class AddingFiles(db.Model):
 def index():
   return render_template("index.html")
 
+@app.route("/hello")
+def hello():
+  return "Hello World"
+
 @app.route("/upload",methods=['GET','POST'])
 def upload():
   if request.method=='POST':
