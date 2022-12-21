@@ -1,6 +1,8 @@
 Click==7.0
 Flask==1.0.2
 Frozen-Flask==0.15
+Flask @ file:///home/runner/.cache/pypoetry/artifacts/19/0a/5c/01c8f2563043757030137df198eec84b501545c42c399d58cb1fc733b3/Flask-2.0.2-py3-none-any.whl
+Flask-SQLAlchemy @ file:///home/runner/.cache/pypoetry/artifacts/32/be/a1/8f73762066fcb1b4eb7ef71f39a6521d13f0e21f356ffbccd2b986f4fb/Flask_SQLAlchemy-2.5.1-py2.py3-none-any.whl
 itsdangerous==1.1.0
 Jinja2==2.10
 MarkupSafe==1.1.0
