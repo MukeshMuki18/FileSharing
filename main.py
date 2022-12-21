@@ -19,7 +19,7 @@ def index():
 
 @app.route("/hello")
 def hello():
-  return "Hello World"
+  return render_template("index.html")
 
 @app.route("/upload",methods=['GET','POST'])
 def upload():
