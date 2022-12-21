@@ -18,6 +18,7 @@ docstring-to-markdown @ https://files.pythonhosted.org/packages/ea/69/88a13ac387
 filelock==3.7.1
 Flask @ https://files.pythonhosted.org/packages/0f/43/15f4f9ab225b0b25352412e8daa3d0e3d135fcf5e127070c74c3632c8b4c/Flask-2.2.2-py3-none-any.whl#sha256=b9c46cc36662a7949f34b52d8ec7bb59c0d74ba08ba6cb9ce9adc1d8676d9526
 Flask-SQLAlchemy @ https://files.pythonhosted.org/packages/1b/9c/2b3ce12b3f7eca00d1f54a6eb84e6cb57b628aa2891a81bb12dfd8b6d604/Flask_SQLAlchemy-3.0.2-py3-none-any.whl#sha256=7d0cd9cf73e64a996bb881a1ebd01633fc5a6d11c36ea27f7b5e251dc45476e7
+Frozen-Flask==0.15
 frozenlist @ https://files.pythonhosted.org/packages/29/ec/5715f872eac10ba488a389f0f2680dafa94f115b823b3ed1cdea31026297/frozenlist-1.3.1-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=42719a8bd3792744c9b523674b752091a7962d0d2d117f0b417a3eba97d1164b
 greenlet @ https://files.pythonhosted.org/packages/56/fd/756f7f78ba8f307ac90a7883f426aa564eac4e38d6cc53c11cf72879648b/greenlet-2.0.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=811e1d37d60b47cb8126e0a929b58c046251f28117cb16fcd371eed61f66b764
 html5lib==1.1
