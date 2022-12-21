@@ -27,6 +27,7 @@ Flask @ file:///home/runner/.cache/pypoetry/artifacts/19/0a/5c/01c8f256304375703
 Flask-SQLAlchemy @ file:///home/runner/.cache/pypoetry/artifacts/32/be/a1/8f73762066fcb1b4eb7ef71f39a6521d13f0e21f356ffbccd2b986f4fb/Flask_SQLAlchemy-2.5.1-py2.py3-none-any.whl
 funcsigs==1.0.2
 future==0.18.2
+Frozen-Flask==0.15
 gast==0.3.3
 glfw==2.2.0
 google-auth==1.35.0
