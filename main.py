@@ -47,4 +47,4 @@ def download():
   return send_file(BytesIO(test.data),download_name=test.name,as_attachment=True)
 
 if __name__ == "__main__":
-  app.run(debug=True)
+  app.run()
